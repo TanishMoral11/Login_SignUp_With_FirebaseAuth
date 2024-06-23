@@ -44,7 +44,7 @@ Clone the repository:
 ```
 
 
-    etup Firebase:
+    Setup Firebase:
 
 - Go to the Firebase Console.
  - Create a new project or use an existing project.
