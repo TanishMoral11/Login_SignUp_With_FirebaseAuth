@@ -7,7 +7,6 @@ A simple login and signup application using Firebase Authentication in Kotlin wi
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 
